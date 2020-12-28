@@ -1,0 +1,24 @@
+drop
+drop
+right right right right right right right right right right drop
+right right right right right right right right right right drop
+right right right right right right drop
+right right right right right right drop
+right right drop
+right right drop
+drop
+drop
+right right right right right right right right drop
+right right right right right right right right drop
+right right right right drop
+force J
+dr
+5ri dr
+dr
+3ri dr
+dr
+dr
+dr
+dr
+dr
+2cl 10ri lef dr

@@ -1,0 +1,33 @@
+drop
+drop
+clockwise
+right right right right
+drop
+right
+right
+right
+down down down down down down
+down down down down
+down
+down
+down
+down
+left
+down
+right right right right right right drop
+drop
+drop
+drop
+drop
+drop
+drpo
+drop
+drop
+right
+right
+right
+down
+down
+down
+drop
+drop
